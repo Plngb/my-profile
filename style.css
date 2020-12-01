@@ -1,0 +1,33 @@
+html{
+	text-align: center;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 14px
+}
+
+body {
+background-color: #ccebe6;
+text-align: center
+}
+
+h1{
+	color: rgb(0,0,0);
+	text-align: center;
+	font-weight: bold;
+}
+
+div{
+	text-align: center;
+	background-color: #f8f8f6;
+	padding: 20px;
+	margin: 20px 250px;
+	border-radius: 6px;
+	}
+
+img{
+	text-align: center;
+	width: 200px;
+	height:200px;
+	border-radius: 60%;
+}
+
+
